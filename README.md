@@ -1,2 +1,2 @@
 # training-ml
-Trainin ML Examples
+Training Machine Learning Python Examples
